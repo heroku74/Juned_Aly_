@@ -2,7 +2,28 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    Vihanga MD V3...
+  𝗝𝗼𝗢𝗻𝗲𝗗 🎶...
+
+[©] New Features
+
+ > Fix button [ original whatsapp not showd button messages]
+ > add .nopeople command.
+ > add .ehi command
+ > add .ssh command
+ > add .logo command
+ > add advanced yt down cmd. [.ytdl]
+ > and more...
+
+
+[©] 𝗝𝗼𝗢𝗻𝗲𝗗 🎶 V4 Upcoming Features[Not Relesed]
+
+ > Playstore Apk Downloder
+ > Playstore Apk searcher
+ > Auto Voice rp [On/Off]
+ > Auto msg rp [On/Off]
+ > Auto sticker rp [On/Off]
+ > Bot is not working some times fixed.
+ > and more...  ...
 
     [©] New Features
 
