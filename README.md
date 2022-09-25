@@ -1,4 +1,4 @@
-# VIHANGA-BOT-MD
+# 𝗝𝗼𝗢𝗻𝗲𝗗 🎶
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
@@ -15,7 +15,7 @@
      > and more...
     
 
-    [©] Vihanga MD V4 Upcoming Features[Not Relesed]
+    [©] 𝗝𝗼𝗢𝗻𝗲𝗗 🎶 V4 Upcoming Features[Not Relesed]
 
      > Playstore Apk Downloder
      > Playstore Apk searcher
